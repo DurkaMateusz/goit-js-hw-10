@@ -17,3 +17,7 @@
   @keyframes skLinRotate {
     95% ,100% { transform: rotate(840deg) }
   }
+
+.error {
+  display: none;
+}
