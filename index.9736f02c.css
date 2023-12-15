@@ -1,2 +1,0 @@
-.loader{width:48px;height:48px;background:#fff;border-radius:50%;animation:skLinRotate 1s ease-in-out infinite alternate;position:relative}.loader:after{content:"";border:5px solid rgba(0,0,0,0);border-top-color:#ff3d00;border-radius:50%;position:absolute;top:5px;bottom:5px;left:5px;right:5px}@keyframes skLinRotate{95%,to{transform:rotate(840deg)}}
-/*# sourceMappingURL=index.9736f02c.css.map */
